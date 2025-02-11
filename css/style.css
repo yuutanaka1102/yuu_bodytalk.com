@@ -32,16 +32,10 @@
 }
 
 .header-2 img{
-  width: 40px;
+  width: 190px;
   height: auto;
-  margin-top: 9px;
-}
-
-.header-2 h1{
-  font-weight: normal;
-  margin: auto 0 auto 15px;
-  font-size: 15px;
-  line-height: 18px;
+  margin-top: 3px;
+  margin-left: -25px;
 }
 
 .header-3{
@@ -239,8 +233,8 @@
   font-size: 15px;
   line-height: 30px;
   color: #ffffff;
-  margin-top: 100px;
-  margin-left: 50px;
+  margin-top: 120px;
+  margin-left: 40px;
 }
 
 /* スライドショー部分のSNSアイコンここから */
@@ -361,8 +355,13 @@ ul.t-snsbtniti {
 }
 
 .main-5 img{
-  width: 335px;
+  width: 344px;
   height: auto;
+}
+
+.main-6 img{
+  width: 70px;
+  margin: auto;
 }
 
 .main-6 {
@@ -415,14 +414,13 @@ ul.t-snsbtniti {
   display: flex;
   width: 160px;
   height: 40px;
-  margin-left: 1px;
   margin-top: 12px;
 }
 
 .footer-3 img{
-  width: 38px;
+  width: 140px;
   height: auto;
-  margin: 5px auto;
+  margin-left: -20px;
 }
 
 .footer-3 h1{
@@ -768,7 +766,7 @@ ul.f-snsbtniti {
 
 .profile-0 img{
   margin: auto;
-  width: 330px;
+  width: 369px;
   height: auto;
 }
 /*施術士紹介 ここまで*/
@@ -886,4 +884,3 @@ ul.f-snsbtniti {
 }
 
 /*お問い合わせ ここまで*/
-
